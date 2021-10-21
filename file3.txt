@@ -1,4 +1,9 @@
 Este é o exemplo de um ficheiro de text file3
 
+<h2>Comidas</h2>
 
-Fiz alterações no ficheiro 3
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
